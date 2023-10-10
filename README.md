@@ -1,1 +1,1 @@
-This is  E-commerece-website using HTML, CSS, JavaScript
+This is  E-commerce-website using HTML, CSS, JavaScript
